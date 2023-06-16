@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            DuplicateElement duplicateElement = new DuplicateElement();
-            duplicateElement.CheckDuplicateItem();
+            FindUniqueElement unique = new FindUniqueElement();
+            unique.CheckUniqueElement();
+
         }
     }
 }
