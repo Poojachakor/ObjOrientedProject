@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
 
-            Pattern2 pattern = new Pattern2();
-            pattern.SquarePattern();
+            ReverseString reverseString = new ReverseString();
+            reverseString.StringReverse();
 
         }
     }
