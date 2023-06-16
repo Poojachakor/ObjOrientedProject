@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
 
-            ReverseString reverseString = new ReverseString();
-            reverseString.StringReverse();
+            SumOfAllDigits sumOfAllDigits = new SumOfAllDigits();
+            sumOfAllDigits.Sum();
 
         }
     }
